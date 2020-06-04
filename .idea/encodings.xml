@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/consumer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/contract-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-ha-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-ha-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-sn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/hi-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/movie-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/ribbon-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/service-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part1_service-register-discovery/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part3_feign/eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part3_feign/movie-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part3_feign/movie-service-feign-customizing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part3_feign/movie-service-feign-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/part3_feign/user-service" charset="UTF-8" />
+  </component>
+</project>

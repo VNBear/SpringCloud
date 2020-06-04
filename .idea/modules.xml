@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EDC.SpringCloud.Samples.iml" filepath="$PROJECT_DIR$/.idea/EDC.SpringCloud.Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/consumer-service/consumer-service.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/consumer-service/consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/contract-service/contract-service.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/contract-service/contract-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part3_feign/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/src/part3_feign/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-sn/eureka-service-sn.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-sn/eureka-service-sn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/hi-service/hi-service.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/hi-service/hi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part3_feign/movie-service/movie-service (1).iml" filepath="$PROJECT_DIR$/src/part3_feign/movie-service/movie-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part3_feign/movie-service-feign-customizing/movie-service-feign-customizing.iml" filepath="$PROJECT_DIR$/src/part3_feign/movie-service-feign-customizing/movie-service-feign-customizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part3_feign/movie-service-feign-logging/movie-service-feign-logging.iml" filepath="$PROJECT_DIR$/src/part3_feign/movie-service-feign-logging/movie-service-feign-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/provider-service/provider-service.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/provider-service/provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/ribbon-service/ribbon-service.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/ribbon-service/ribbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part1_service-register-discovery/service-producer/service-producer.iml" filepath="$PROJECT_DIR$/src/part1_service-register-discovery/service-producer/service-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/part3_feign/user-service/user-service (1).iml" filepath="$PROJECT_DIR$/src/part3_feign/user-service/user-service (1).iml" />
+    </modules>
+  </component>
+</project>

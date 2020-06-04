@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-service-sn" />
+        <module name="hi-service" />
+        <module name="movie-service (1)" />
+        <module name="user-service (1)" />
+        <module name="movie-service-feign-customizing" />
+        <module name="eureka-service" />
+        <module name="consumer-service" />
+        <module name="ribbon-service" />
+        <module name="service-consumer" />
+        <module name="provider-service" />
+        <module name="service-producer" />
+        <module name="movie-service-feign-logging" />
+        <module name="contract-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-service" target="1.8" />
+      <module name="contract-service" target="1.8" />
+      <module name="eureka-service" target="1.8" />
+      <module name="eureka-service-ha-1" target="1.8" />
+      <module name="eureka-service-ha-2" target="1.8" />
+      <module name="eureka-service-sn" target="1.8" />
+      <module name="hi-service" target="1.8" />
+      <module name="movie-service" target="1.8" />
+      <module name="movie-service (1)" target="1.8" />
+      <module name="movie-service-feign-customizing" target="1.8" />
+      <module name="movie-service-feign-logging" target="1.8" />
+      <module name="provider-service" target="1.8" />
+      <module name="ribbon-service" target="1.8" />
+      <module name="service-consumer" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-producer" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="user-service (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer-service" options="-parameters" />
+      <module name="contract-service" options="-parameters" />
+      <module name="eureka-service-sn" options="" />
+      <module name="hi-service" options="" />
+      <module name="provider-service" options="-parameters" />
+      <module name="ribbon-service" options="" />
+      <module name="service-consumer" options="-parameters" />
+      <module name="service-hi" options="-parameters" />
+      <module name="service-producer" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/eureka-service-sn/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/hi-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/ribbon-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/contract-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part3_feign/movie-service-feign-customizing/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part3_feign/movie-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part3_feign/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part3_feign/movie-service-feign-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part3_feign/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/service-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/src/part1_service-register-discovery/service-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,31 @@
+spring:
+    application:
+        name: service-hi
+
+---
+spring:
+    profiles: service-hi1
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8762/eureka/
+server:
+    port: 8763
+
+
+---
+spring:
+    profiles: service-hi2
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8762/eureka/
+server:
+    port: 8764
+
+
+
+
+
+
+
